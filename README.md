@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wanjb2115
 - 👀 I’m interested in Linux Kernel
 - 🌱 I’m currently learning Operating System
-- 💞️ I’m looking to collaborate on Linux Kernel Developing
+- 💞️ I’m looking to collaborate on Linux Kernel Development
 - 📫 Reach me by kael_w@yeah.net
 
 <!---
